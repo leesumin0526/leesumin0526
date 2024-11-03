@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://clumsy-seeder-416.notion.site/MARO-s-Portfolio-3168a99b50864d578687b1118ba34661" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=black"/></a>
+<a href="https://clumsy-seeder-416.notion.site/MARO-s-Portfolio-3168a99b50864d578687b1118ba34661" target="_blank"><img src="https://img.shields.io/badge/notion-ffffff?style=flat&logo=notion&logoColor=black"/></a>
 
 
 <!--
