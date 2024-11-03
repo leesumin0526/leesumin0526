@@ -2,8 +2,6 @@
 ------------------
 🏫  Soongsil Univ CSE 23
 
-🏫  semyeong computer high school GameSoftWare
-
 
 **Experience**
 ------------------
