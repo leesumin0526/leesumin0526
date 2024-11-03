@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="=https://clumsy-seeder-416.notion.site/MARO-s-Portfolio-3168a99b50864d578687b1118ba34661?pvs=74" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png"/></a>
 
 <!--
 **leesumin0526/leesumin0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
