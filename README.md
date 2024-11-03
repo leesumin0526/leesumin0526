@@ -5,8 +5,8 @@
 🏫 semyeong computer high school GameSoftWare
 
 
-🌱 Experience
-
+**Experience**
+------------------
 UMC 6th Android 파트 : 2024.03 ~ 2024.08
 UMC 7th SpringBoot 파트 : 2024.09 ~ing
 
