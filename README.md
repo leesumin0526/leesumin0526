@@ -1,6 +1,5 @@
-## 🏫 Education
 🏫  Soongsil Univ CSE 23
-
+✉️ leesumin0526@gmail.com
 
  ## 🐥 Experience
 - 네이버 소프트웨어야 놀자 대학생 멘토 : 2023.08
