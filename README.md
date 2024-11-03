@@ -1,18 +1,19 @@
 **Education**
 ------------------
-🏫 Soongsil Univ CSE 23
+🏫  Soongsil Univ CSE 23
 
-🏫 semyeong computer high school GameSoftWare
+🏫  semyeong computer high school GameSoftWare
 
 
 **Experience**
 ------------------
 UMC 6th Android 파트 : 2024.03 ~ 2024.08
+
 UMC 7th SpringBoot 파트 : 2024.09 ~ing
 
 
-✨ Awards
-
+**Awards**
+------------------
 UMC 6th Demoday 대상 : 2024.08
 
 
