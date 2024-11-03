@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<a href="=https://clumsy-seeder-416.notion.site/MARO-s-Portfolio-3168a99b50864d578687b1118ba34661?pvs=74" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png"/></a>
+<a href="https://clumsy-seeder-416.notion.site/MARO-s-Portfolio-3168a99b50864d578687b1118ba34661" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=black"/></a>
+
 
 <!--
 **leesumin0526/leesumin0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
