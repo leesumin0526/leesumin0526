@@ -22,11 +22,11 @@
 - 정보처리산업기사 : 2022.11
 
 
-<!-- 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesumin0526&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesumin0526&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://clumsy-seeder-416.notion.site/MARO-s-Portfolio-3168a99b50864d578687b1118ba34661" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
--->
+
 
 
 <!--
