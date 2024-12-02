@@ -15,6 +15,7 @@
 - 2023년도 창의공학설계 전시회 동상 : 2023.12
 - Soongsil Tutoring C언어 우수 튜터 : 2024.03
 - UMC 6th Demoday 대상 Link.Zip : 2024.08
+- 제 7회 Ne(o)rdinary Hackathon 최우수상 : 2024.11.23
 
 
 ## 🎖️ Certification
