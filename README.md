@@ -6,7 +6,8 @@
 - 영도초등학교 SWAI 캠프 강사 : 2024.01
 - 한국 장학재단 대학생 재능봉사 캠프 멘토 : 2024.07
 - UMC 6th Android 파트 : 2024.03 ~ 2024.08
-- UMC 7th SpringBoot 파트 : 2024.09 ~ing
+- UMC 7th SpringBoot 파트 : 2024.09 ~ 2025.02
+- 숭실대 IT지원위원회 Backend 파트 : 2025.03 ~ing
 
 
 ## 🏆 Awards
