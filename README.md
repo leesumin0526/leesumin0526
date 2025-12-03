@@ -1,7 +1,7 @@
-🏫  Soongsil Univ CSE 23  
-✉️ leesumin0526@gmail.com
+Education: Soongsil Univ CSE 23  
+Contact: leesumin0526@gmail.com
 
-## 🐥 Experience
+## Experience
 - ASSU PM, 풀스택: 2025.01 ~
 - Stackpot Backend 파트: 2025.01 ~
 - UMC 7th SpringBoot 파트: 2024.09 ~ 2025.02
@@ -10,7 +10,7 @@
 - 영도초등학교 SWAI 캠프 강사: 2024.01
 - 네이버 소프트웨어야 놀자 대학생 멘토: 2023.08
 
-## 🏆 Awards
+## Awards
 - 제3회 2025 IT 프로젝트 공모전 장려상: 2025.11.22
 - 숭실대학교 컴퓨터학부 2025 소프트웨어 공모전 금상: 2025.07.11
 - 제 7회 Ne(o)rdinary Hackathon 최우수상: 2024.11.23
@@ -20,7 +20,7 @@
 - 서울시 직업계고 창의아이디어 경진대회 특별상: 2022.11
 - 넷마블게임아카데미 5기 열정반 대상: 2021.03
 
-## 🎖️ Certification
+## Certification
 - 정보처리산업기사: 2022.11
 - 정보처리기능사: 2022.07
 
