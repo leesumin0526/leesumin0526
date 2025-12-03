@@ -3,7 +3,7 @@ Soongsil Univ CSE 23
 leesumin0526@gmail.com
 
 ## Experience
-- ASSU PM, 풀스택: 2025.01 ~
+- ASSU PM, 풀스택(SpringBoot + Android): 2025.01 ~
 - Stackpot Backend 파트: 2025.01 ~
 - UMC 7th SpringBoot 파트: 2024.09 ~ 2025.02
 - UMC 6th Android 파트: 2024.03 ~ 2024.08
