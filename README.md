@@ -1,5 +1,5 @@
-Education: Soongsil Univ CSE 23  
-Contact: leesumin0526@gmail.com
+Soongsil Univ CSE 23  
+leesumin0526@gmail.com
 
 ## Experience
 - ASSU PM, 풀스택: 2025.01 ~
