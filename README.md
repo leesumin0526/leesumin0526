@@ -25,7 +25,6 @@
 
 ### DevOps & Infrastructure
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat)
@@ -33,6 +32,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-40B4F4?style=flat&logo=githubactions&logoColor=white)
 
+### Mobile (Android)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-000000?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -63,12 +68,13 @@
 ---
 
 ## 🏆 **Awards**
-- 제 5회 숭실대학교 IT 프로젝트 공모전 **장려상** – A:SSU (2025.11.22)
-- 숭실대학교 컴퓨터학부 소프트웨어공모전 **금상** – Memoir Archive (2025.07.11)
-- 제 7회 너디너리 해커톤 **최우수상** – 12월 32일 (2024.11.23)
-- 2024년 2학기 숭실대학교 튜터링 **우수튜터** (2025.01.21)
-- 제 6회 UMC 데모데이 **대상** – Link.zip (2024.08.24)
-- 숭실대학교 컴퓨터학부 창의공학설계 공모전 **동상** – 나만의 조금 큰 거울 (2023.12.08)
-
+| 수상명 | 프로젝트 | 수상 등급 | 수상일 |
+|---|---|---|---|
+|**제 5회 숭실대학교 IT 프로젝트 공모전**| A:SSU | 장려상 | 2025.11.22 |
+| **숭실대학교 컴퓨터학부 소프트웨어공모전** | Memoir Archive | 금상 | 2025.07.11 |
+| **제 7회 너디너리 해커톤** | 12월 32일 | 최우수상 | 2024.11.23 |
+| **2024년 2학기 숭실대학교 튜터링** | C언어 튜터링 | 우수튜터 | 2025.01.21 |
+| **제 6회 UMC 데모데이** | Link.zip | 대상 | 2024.08.24 |
+| **숭실대학교 컴퓨터학부 창의공학설계 공모전** | 나만의 조금 큰 거울 | 동상 | 2023.12.08 |
 
 </div>
