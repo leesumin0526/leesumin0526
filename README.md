@@ -52,23 +52,12 @@
 
 ## 🫂 **Experience**
 
-- **Nongshim Australia**  
-  IT Support & HR Intern  
-  (2025.08 ~ 진행중)
-
-- **UMC 7기**  
-  Backend Challenger (Spring Boot) 
-  (2024.09 ~ 2025.02)
-  → 프로젝트: Stackpot
-
-- **UMC 6기**  
-  Frontend Challenger (Android - Kotlin)
-  (2024.03 ~ 2024.09)  
-  → 프로젝트: Link.zip
-
-- **초등 SW·AI 교육 멘토**
-  (2023.08 ~ 2024.07)
-  → 한국장학재단 / 네이버 소프트웨어야 놀자 / 초등학교(새금초, 영도초)
+| 소속 / 프로그램 | 역할 | 기간 | 비고 |
+|---|---|---|---|
+| **Nongshim Australia** | IT Support & HR Intern | 2025.08 ~ 진행중 | IT·HR 업무 지원 |
+| **UMC 7기** | SpringBoot Challenger | 2024.09 ~ 2025.02 | Stackpot |
+| **UMC 6기** | Android Challenger | 2024.03 ~ 2024.09 | Link.zip |
+| **초등 SW·AI 교육 멘토** | Education Mentor | 2023.08 ~ 2024.07 | 한국장학재단 · 네이버 SW야 놀자 |
 
 ---
 
@@ -80,9 +69,5 @@
 - 제 6회 UMC 데모데이 **대상** – Link.zip (2024.08.24)
 - 숭실대학교 컴퓨터학부 창의공학설계 공모전 **동상** – 나만의 조금 큰 거울 (2023.12.08)
 
----
-
-## 📊 **Stats**
-![leesumin0526's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesumin0526&show_icons=true&theme=radical)
 
 </div>
