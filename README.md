@@ -1,51 +1,88 @@
-## Sumin Lee
-Soongsil Univ CSE 23  
-leesumin0526@gmail.com
+<div align="left">
 
-## Experience
-- ASSU PM, 풀스택(SpringBoot + Android): 2025.01 ~
-- Stackpot Backend 파트: 2025.01 ~
-- UMC 7th SpringBoot 파트: 2024.09 ~ 2025.02
-- UMC 6th Android 파트: 2024.03 ~ 2024.08
-- 한국 장학재단 대학생 재능봉사 캠프 멘토: 2024.07
-- 영도초등학교 SWAI 캠프 강사: 2024.01
-- 네이버 소프트웨어야 놀자 대학생 멘토: 2023.08
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=200&section=header&text=Sumin%20Lee&fontColor=000000&fontSize=80&fontAlign=50&fontAlignY=39&desc=Welcome%20to%20my%20GitHub!&descAlign=80&descAlignY=60)
 
-## Awards
-- 제3회 2025 IT 프로젝트 공모전 장려상: 2025.11.22
-- 숭실대학교 컴퓨터학부 2025 소프트웨어 공모전 금상: 2025.07.11
-- 제 7회 Ne(o)rdinary Hackathon 최우수상: 2024.11.23
-- UMC 6th Demoday 대상 Link.Zip: 2024.08
-- Soongsil Tutoring C언어 우수 튜터: 2024.03
-- 2023년도 창의공학설계 전시회 동상: 2023.12
-- 서울시 직업계고 창의아이디어 경진대회 특별상: 2022.11
-- 넷마블게임아카데미 5기 열정반 대상: 2021.03
+## 😃 **About Me**
+문제를 끝까지 고민하며, 서비스의 맥락 속에서 개발하는 개발자 이수민입니다.
+	•	기능 구현 전, 서비스 전체 흐름과 사용자 경험을 먼저 고민합니다.
+	•	역할과 책임이 명확한 구조를 바탕으로 구현 방식을 선택합니다.
+	•	기획부터 구현, 운영까지 이어지는 흐름을 책임지는 개발을 지향합니다.
 
-## Certification
-- 정보처리산업기사: 2022.11
-- 정보처리기능사: 2022.07
+---
+
+## 🛠️ **Skills**
+
+### Language & Framework
+![Java](https://img.shields.io/badge/Java-☕-f89820?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+
+### Database & Cache
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### DevOps & Infrastructure
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-40B4F4?style=flat&logo=githubactions&logoColor=white)
 
 
+---
 
+## 💻 **Projects**
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesumin0526&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesumin0526&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://clumsy-seeder-416.notion.site/MARO-s-Portfolio-3168a99b50864d578687b1118ba34661" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
--->
+| 프로젝트 | 기간 | 설명 |
+|--------|------|------|
+| **A:SSU** | 2025.01 ~ 진행중 | 대학 제휴 혜택 통합 관리 플랫폼 (Backend / PM / Frontend) |
+| **Stackpot** | 2025.01 ~ 진행중 | 개발자 프로젝트 매칭 & 신뢰 지표 플랫폼 |
+| **Memoir Archive** | 2025.07 | AI 기반 개인 기록 아카이빙 서비스 |
+| **12월 32일** | 2024.11 | 실시간 참여형 연말 시상식 앱 |
+| **Booking** | 2024.09 ~ 12 | 독서 기록·시간·장소 관리 앱 |
+| **Link.zip** | 2024.07 ~ 08 | 링크 아카이빙 모바일 서비스 |
+| **나만의 조금 큰 거울** | 2023.09 ~ 12 | 제스처 기반 스마트 미러 프로젝트 |
 
+---
 
-<!--
-**leesumin0526/leesumin0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🫂 **Experience**
 
-Here are some ideas to get you started:
+- **Nongshim Australia**  
+  IT Support & HR Intern  
+  (2025.08 ~ 진행중)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **UMC 7기**  
+  Backend Challenger (Spring Boot) 
+  (2024.09 ~ 2025.02)
+  → 프로젝트: Stackpot
+
+- **UMC 6기**  
+  Frontend Challenger (Android - Kotlin)
+  (2024.03 ~ 2024.09)  
+  → 프로젝트: Link.zip
+
+- **초등 SW·AI 교육 멘토**
+  (2023.08 ~ 2024.07)
+  → 한국장학재단 / 네이버 소프트웨어야 놀자 / 초등학교(새금초, 영도초)
+
+---
+
+## 🏆 **Awards**
+- 제 5회 숭실대학교 IT 프로젝트 공모전 **장려상** – A:SSU (2025.11.22)
+- 숭실대학교 컴퓨터학부 소프트웨어공모전 **금상** – Memoir Archive (2025.07.11)
+- 제 7회 너디너리 해커톤 **최우수상** – 12월 32일 (2024.11.23)
+- 2024년 2학기 숭실대학교 튜터링 **우수튜터** (2025.01.21)
+- 제 6회 UMC 데모데이 **대상** – Link.zip (2024.08.24)
+- 숭실대학교 컴퓨터학부 창의공학설계 공모전 **동상** – 나만의 조금 큰 거울 (2023.12.08)
+
+---
+
+## 📊 **Stats**
+![leesumin0526's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesumin0526&show_icons=true&theme=radical)
+
+</div>
