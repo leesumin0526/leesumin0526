@@ -83,6 +83,5 @@
 ---
 
 ## 📊 **Stats**
-![leesumin0526's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesumin0526&show_icons=true&theme=radical)
 
 </div>
