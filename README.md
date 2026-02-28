@@ -59,7 +59,7 @@
 
 | 소속 / 프로그램 | 역할 | 기간 | 비고 |
 |---|---|---|---|
-| **Nongshim Australia** | IT Support & HR Intern | 2025.08 ~ 진행중 | IT·HR 업무 지원 |
+| **Nongshim Australia** | IT Support & HR Intern | 2025.08 ~ 진행중 | IT 지원·HR 업무 |
 | **UMC 7기** | SpringBoot Challenger | 2024.09 ~ 2025.02 | Stackpot |
 | **UMC 6기** | Android Challenger | 2024.03 ~ 2024.09 | Link.zip |
 | **숭실대학교 컴퓨터학부 학생회** | 사무국원 · 국장 | 2023.03 ~ 2024.12 | 학부 사무 관리 담당 |
