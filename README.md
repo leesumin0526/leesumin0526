@@ -78,7 +78,7 @@
 | **숭실대학교 컴퓨터학부 창의공학설계 공모전** | 나만의 조금 큰 거울 | 동상 | 2023.12.08 |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesumin0526&show_icons=true&theme=default)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesumin0526&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesumin0526&layout=compact)
 
 
 </div>
