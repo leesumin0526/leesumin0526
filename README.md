@@ -3,14 +3,22 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=200&section=header&text=Sumin%20Lee&fontColor=000000&fontSize=80&fontAlign=50&fontAlignY=39&desc=Welcome%20to%20my%20GitHub!&descAlign=80&descAlignY=60)
 
 ## 😃 **About Me**
-문제를 끝까지 고민하며, 서비스의 맥락 속에서 개발하는 개발자 이수민입니다.
+문제를 끝까지 고민하며, 코드와 자동화로 풀어내는 이수민입니다.
+- 현장 관찰로 페인을 발굴해 AI·노코드 워크플로우로 연결합니다.
 - 기능 구현 전, 서비스 전체 흐름과 사용자 경험을 먼저 고민합니다.
 - 역할과 책임이 명확한 구조를 바탕으로 구현 방식을 선택합니다.
-- 기획부터 구현, 운영까지 이어지는 흐름을 책임지는 개발을 지향합니다.
+- 기획부터 구현, 운영까지 이어지는 흐름을 책임집니다.
 
 ---
 
 ## 🛠️ **Skills**
+
+### AI & Automation
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoft&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ### Language & Framework
 ![Java](https://img.shields.io/badge/Java-☕-f89820?style=flat)
@@ -31,6 +39,7 @@
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-40B4F4?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### Mobile (Android)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -45,8 +54,8 @@
 
 | 프로젝트 | 기간 | 담당 역할 | 설명 |
 |--------|------|-----------|------|
-| **A:SSU** | 2025.01 ~ 진행중 | PM / Backend / Frontend | 대학 제휴 혜택 통합 관리 플랫폼 |
-| **Stackpot** | 2025.01 ~ 진행중 | Backend | 개발자 프로젝트 매칭 & 신뢰 지표 플랫폼 |
+| **A:SSU** | 2025.01 ~ 2026.03 | PM / Backend / Frontend | 대학 제휴 혜택 통합 관리 플랫폼 |
+| **Stackpot** | 2025.01 ~ 2026.03 | Backend | 개발자 프로젝트 매칭 & 신뢰 지표 플랫폼 |
 | **Memoir Archive** | 2025.07 | Backend / Frontend | AI 기반 개인 기록 아카이빙 서비스 |
 | **12월 32일** | 2024.11 | Frontend | 실시간 참여형 연말 시상식 앱 |
 | **Booking** | 2024.09 ~ 2024.12 | Backend / Frontend | 독서 기록·시간·장소 관리 앱 |
@@ -59,7 +68,8 @@
 
 | 소속 / 프로그램 | 역할 | 기간 | 비고 |
 |---|---|---|---|
-| **Nongshim Australia** | IT Support & HR Intern | 2025.08 ~ 진행중 | IT 지원·HR 업무 |
+| **아이오트러스트 (IoTrust)** | AX Assistant Intern | 2026.04 ~ 진행중 | 사내 AX 도입·자동화 컨설팅 |
+| **Nongshim Australia** | IT Support & HR Intern | 2025.08 ~ 2026.02 | IT 지원·HR 업무 |
 | **UMC 7기** | SpringBoot Challenger | 2024.09 ~ 2025.02 | Stackpot |
 | **UMC 6기** | Android Challenger | 2024.03 ~ 2024.09 | Link.zip |
 | **숭실대학교 컴퓨터학부 학생회** | 사무국원 · 국장 | 2023.03 ~ 2024.12 | 학부 사무 관리 담당 |
@@ -70,11 +80,12 @@
 ## 🏆 **Awards**
 | 수상명 | 프로젝트 | 수상 등급 | 수상일 |
 |---|---|---|---|
-|**제 5회 숭실대학교 IT 프로젝트 공모전**| A:SSU | 장려상 | 2025.11.22 |
+| **제 5회 숭실대학교 IT 프로젝트 공모전** | A:SSU | 장려상 | 2026.01 |
 | **숭실대학교 컴퓨터학부 소프트웨어공모전** | Memoir Archive | 금상 | 2025.07.11 |
+| **2024-2학기 숭실대학교 튜터링** | 컴퓨터수학 튜터링 | 우수튜터 | 2025.01.21 |
 | **제 7회 너디너리 해커톤** | 12월 32일 | 최우수상 | 2024.11.23 |
-| **2024년 2학기 숭실대학교 튜터링** | C언어 튜터링 | 우수튜터 | 2025.01.21 |
 | **제 6회 UMC 데모데이** | Link.zip | 대상 | 2024.08.24 |
+| **2024-1학기 숭실대학교 튜터링** | 컴퓨터학개론 튜터링 | 우수튜터 | 2024.07 |
 | **숭실대학교 컴퓨터학부 창의공학설계 공모전** | 나만의 조금 큰 거울 | 동상 | 2023.12.08 |
 
 
