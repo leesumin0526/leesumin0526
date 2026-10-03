@@ -68,7 +68,8 @@
 
 | 소속 / 프로그램 | 역할 | 기간 | 비고 |
 |---|---|---|---|
-| **아이오트러스트 (IoTrust)** | AX Assistant Intern | 2026.04 ~ 진행중 | 사내 AX 도입·자동화 컨설팅 |
+| **Allganize Korea** | Project Manager | 2026.07 ~ 2026.09 | AX Service 프로젝트 매니저 |
+| **아이오트러스트 (IoTrust)** | AX Assistant | 2026.04 ~ 2026.06 | 사내 AX 도입·자동화 컨설팅 |
 | **Nongshim Australia** | IT Support & HR Intern | 2025.08 ~ 2026.02 | IT 지원·HR 업무 |
 | **UMC 7기** | SpringBoot Challenger | 2024.09 ~ 2025.02 | Stackpot |
 | **UMC 6기** | Android Challenger | 2024.03 ~ 2024.09 | Link.zip |
